@@ -3,7 +3,7 @@ package week3;
 public class Even {
 
     public static void main(String[] args) {
-        int num = 8843; // 홀수
+        int num = 8843; //
 
         System.out.println(num % 2);
 
