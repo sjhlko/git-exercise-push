@@ -1,4 +1,4 @@
-package week3.day1.part1;
+package week3.day1.part2;
 
 public class WhyClass {
     private int a, b;
